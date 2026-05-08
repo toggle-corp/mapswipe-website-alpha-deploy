@@ -1,6 +1,6 @@
 {
     "repositoryUrl": "mapswipe/website",
-    "branch": "project/locate-features",
+    "branch": "main",
     "submodules": true,
     "nodeVersion": "18.x",
 
