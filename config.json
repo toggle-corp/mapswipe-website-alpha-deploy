@@ -1,0 +1,15 @@
+{
+    "repositoryUrl": "mapswipe/website",
+    "branch": "project/locate-features",
+    "submodules": true,
+    "nodeVersion": "18.x",
+
+    "install": "yarn install",
+    "generate": "yarn generate:type",
+    "fetch": "yarn fetch-data",
+    "build": "yarn build",
+
+    "buildOutput": "out",
+    "cacheDir": "fullData"
+}
+
